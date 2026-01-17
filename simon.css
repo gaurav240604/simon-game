@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+h1{
+    color: tomato;
+    text-decoration: underline blanchedalmond;
+}
+h2{
+    color: chocolate;
+}
+.btn{
+    height: 200px;
+    width: 250px;
+    border-radius: 20%;
+    padding: 1px 2px 4px 2px;
+    margin: 2rem;
+    box-shadow: 1px 1px 5px yellow;
+    border: solid black;
+   
+
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: aqua;
+}
+.yellow{
+    background-color: blueviolet;
+}
+.green{
+    background-color: burlywood;
+}
+.blue{
+    background-color: chartreuse;
+}
+.flash{
+    background-color: white;
+}
